@@ -1,0 +1,9 @@
+{
+  "name": "steady-usdx",
+  "version": "0.1.0",
+  "description": "Mortgage-backed stablecoin protocol",
+  "scripts": {
+    "test": "echo \"tests coming soon\"",
+    "deploy": "node scripts/deploy.js"
+  }
+}
